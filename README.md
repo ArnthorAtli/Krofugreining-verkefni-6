@@ -22,7 +22,7 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 7. Rýnir uppfærir `reviews/PR-Comments.md` með niðurstöðum rýni  
 8. Ef það kemur samþykki frá öðrum þá sameinar **höfundur** greinina við main (merge), annars uppfærir og bíður eftir samþykki aftur
 
-## Hópur
+## Hópur 1
 | **Virknikrafa nr.** | **Endurskrifar** | **Rýnir** |
 |---------------------|------------------|-----------|
 | FR-01 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
