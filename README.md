@@ -23,8 +23,17 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 8. Ef það kemur samþykki frá öðrum þá sameinar **höfundur** greinina við main (merge), annars uppfærir og bíður eftir samþykki aftur
 
 ## Hópur
-Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir     
-Setjið gjarnan upp sem töflu
+| **Virknikrafa nr.** | **Endurskrifar** | **Rýnir** |
+|---------------------|------------------|-----------|
+| FR-01 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
+| FR-02 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
+| FR-03 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
+| FR-04 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
+| FR-05 | | |
+| FR-06 | | |
+| FR-07 | | |
+| FR-08 | | |
+
 ---
 
 ## Tenglar
