@@ -30,9 +30,9 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 | FR-03 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
 | FR-04 | Kristín Sesselja Róbertsdóttir | Arnþór Atli Atlason |
 | FR-05 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir |
-| FR-06 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir|
-| FR-07 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir|
-| FR-08 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir|
+| FR-11 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir|
+| FR-18 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir|
+| FR-16 |Arnþór Atli Atlason | Kristín Sesselja Róbertsdóttir|
 
 ---
 
