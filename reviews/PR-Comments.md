@@ -2,10 +2,10 @@
 
 | Krafa | Rýnir | PR Athugasemdir | Hvað má bæta? | Höfundur samþykkir |
 |:------|:------|:----------------|:--------------------|--------------------|
-| FR-01 | Arnþór Atli Atlason|                 |                    |
-| FR-02 | Arnþór Atli Atlason       |                 |                    |
-| FR-03 |Arnþór Atli Atlason        |                 |                    |
-| FR-04 |Arnþór Atli Atlason        |                 |                    |
+| FR-01 | Arnþór Atli Atlason|Krafan er brotin niður í einföld virkniatriði og notar „Kerfið skal“ í samræmi við leiðbeiningar A&S og WB. Hún lýsir hegðun kerfisins frekar en hönnun eða framsetningu á notendaviðmóti, og inniheldur einnig viðbrögð kerfisins við villum.|Hægt væri að skilgreina hvenær staðan „í útláni“ er uppfærð, fyrir eða eftir að auðkenni hefur verið staðfest? |
+| FR-02 | Arnþór Atli Atlason       |Krafan er sett fram með „Kerfið skal“ og er því í samræmi við A&S og WB kröfur. Hún skilgreinir nákvæma hegðun kerfisins og hún inniheldur villumeðhöndlun fyrir tilfelli þar sem birgðastaða er nú þegar núll. Krafan er nú bæði mælanleg og prófanleg. Að lokum lýsir krafan eingöngu hegðun kerfisins en ekki hönnun né tæknilegri útfærslu.|Ef birgðir eru keyrðar á mörgum kerfum á sama tíma mætti hugsa hvernig samkvæmtar skannanir á sama tíma eiga að hegða sér |
+| FR-03 |Arnþór Atli Atlason        |Krafan skýrir forsendur með því að tölvupóstur sendist einungis þegar þrjú tiltekin samþykkisskref hafa verið uppfyllt. Hún inniheldur einnig villumeðhöndlun fyrir tilfelli þar sem skilyrðin eru ekki uppfyllt. Þar að auki er krafan mælanleg og prófanleg, þar sem hægt er að sannreyna hvort og hvenær tölvupósturinn er sendur.|Ekki er tilgreint hvað gerist ef tölvupóstsending bregst — birtir kerfið villu eða reynir aftur? |
+| FR-04 |Arnþór Atli Atlason        |Krafan skilgreinir skýrt trigger. Hún lýsir nákvæmlega bæði skilyrðum og afleiðingum sem fylgja pantunarferlinu, og tekur á undantekningum með því að birta villuboð ef engin eintök eru tiltæk. |Hægt væri að skilgreina hvenær staðan „í útláni“ er uppfærð, fyrir eða eftir að auðkenni hefur verið staðfest?|
 | FR-05 | Kristín Sesselja Róbertsdóttir| Endurgerða krafan er mun skýrari en sú gamla. Kröfunni var skipt í fjóra parta, og er orðin skýr, mælanleg og prófanleg.|  Ekkert           | Arnþór Atli Atlason |
 | FR-11 | Kristín Sesselja Róbertsdóttir| Endurbættu kröfunni var skipt í 4 hluta, því hún var of gróf í verkefni 1. Nú er krafan orðin skýr og heildstæð. Krafan var tvíræð í verkefni 1 og er það ekki lengur. | Kerfið skal skrá atburð í dagbók (stöðu sms sendingar)                   | Arnþór Atli Atlason |
 | FR-18 | Kristín Sesselja Róbertsdóttir| Kröfunni var skipt í 4 hluta, því fyrri krafan úr verkefni 1 var tvíræð og ófullkomin. | Skýra betur með dagsetningar, hvort bækur séu í vanskilum eftir kl. 23:59 eða miða útreikning við skiladag| Arnþór Atli Atlason |
